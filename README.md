@@ -9,11 +9,11 @@ This project focuses mainly on (ETLA) extracting, transformation, loading and an
 ## Repository Structure
 ```
 📂 Retail-Sales-Analysis
+│── 📂 data       # Raw & Processed Data
+│── 📂 notebooks  # Data Transformation Scripts
+│── 📂 reports    # Analysis & Insights
+│── 📂 sql        # SQL Queries
 │── 📄 README.md  # Project Documentation
-│── 📄 order_analysis.ipynb  # Python code for data processing
-│── 📄 orders.csv  # Extracted data in csv format
-│── 📄 orders.csv.zip  # Extracted zip file data
-│── 📄 sql_queries.sql  # SQL queries file
 ```
 
 
