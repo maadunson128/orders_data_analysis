@@ -11,7 +11,7 @@ This project focuses mainly on (ETLA) extracting, transformation, loading and an
 📂 Retail-Sales-Analysis
 │── 📂 data       # Raw & Processed Data
 │── 📂 notebooks  # Data Transformation Scripts
-│── 📂 reports    # Analysis & Insights
+│── 📂 report    # Analysis & Insights
 │── 📂 sql        # SQL Queries
 │── 📄 README.md  # Project Documentation
 ```
